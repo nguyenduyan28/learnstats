@@ -51,4 +51,6 @@
 * Quantitive: A numerical number (wage, age, height, stock) --> Regression 
 * Qualitative: A values of one of K classes (Man, Woman, married, not married, brand A, B , C) --> Classification
 
-## Accessing model accuracy
+## Accessing model accuracoy
+
+![](2.2.svg)
